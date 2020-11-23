@@ -1,4 +1,4 @@
-function calc(type){
+function calculator(type){
 
 var number1 = Number(document.getElementById('num1').value);
 var number2 = Number(document.getElementById('num2').value);
