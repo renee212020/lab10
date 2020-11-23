@@ -17,5 +17,6 @@ else if (type="multiply"){
 
 else if (type="divide"){
       document.getElementById('output').innerHtml= number1 / number2
-            }
+}
+
 }
